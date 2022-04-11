@@ -9,3 +9,10 @@
 |DevOps Engineer|Comcast|2016-2018|Philadelphia, PA|Pivotal Cloud Foundry(PCF), Amazon Web Services, GitHub, Jenkins, GoCD, Python|
 |Systems Engineer|Tata Consultancy Services for Ericsson & Qualcomm|2012-2015|Hyderabad, India|Linux, C++, ClearCase, Git, Shell Scripting, Hudson(Jenkins)|
 
+### Detailed Experience(Click to Learn More)
+|||||
+|:----|:----|:----|:-----|
+|Kubernetes - Cluster Lifecycle|Kubernetes - Application Runtime|Kubernetes - Security|Kubernetes - Operations|
+|Kubernetes - FinOps|Kubernetes - Compliance|Kubernetes - Service Mesh|Kubernetes - Observability|
+|AWS - Compute|AWS - Serverless|AWS-Observability|AWS - Security|
+|CICD|DevSecOps|Incident Management|Release Management|
