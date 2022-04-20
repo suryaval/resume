@@ -12,7 +12,7 @@
 ### Detailed Experience(Click to Learn More)
 |||||
 |:----|:----|:----|:-----|
-|Kubernetes - Cluster Lifecycle|Kubernetes - Application Runtime|Kubernetes - Security|Kubernetes - Operations|
+|Kubernetes - </br>Cluster Lifecycle|Kubernetes - </br>Application Runtime|Kubernetes - </br>Security|Kubernetes - </br>(Day0-n)Operations|
 |Kubernetes - FinOps|Kubernetes - Compliance|Kubernetes - Service Mesh|Kubernetes - Observability|
 |AWS - Compute|AWS - Serverless|AWS-Observability|AWS - Security|
 |CICD|DevSecOps|Incident Management|Release Management|
